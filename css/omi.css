@@ -1,0 +1,27 @@
+body {
+  background-color: #F4E04D;
+}
+
+.top{
+
+  position: relative;
+  text-align: left;
+
+}
+
+.q1{
+  background-color: palegoldenrod;
+  color: red;
+  font-size: larger;
+  position: absolute;
+  top: 20px;
+  left: 10px;
+}
+
+.a1 {
+  background-color: palegoldenrod;
+  color: red;
+  position: absolute;
+  top: 40px;
+  left: 20px;
+}
